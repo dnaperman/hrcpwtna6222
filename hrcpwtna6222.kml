@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Style>
+<ListStyle id="hideChildren">
+<listItemType>checkHideChildren</listItemType>
+</ListStyle>
+</Style>
+<name>1</name>
+<NetworkLink>
+<name>0/0/0</name>
+<Region>
+<Lod>
+<minLodPixels>-1</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+<LatLonAltBox><west>-77.79174136387508</west>
+<north>40.77499439575870</north>
+<east>-77.77599157064752</east>
+<south>40.75924460253114</south>
+</LatLonAltBox>
+</Region>
+<Link>
+<href>https://raw.githubusercontent.com/dnaperman/hrcpwtna6222/main/0/0/0.kml</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+<LookAt>
+<longitude>-77.78570205259871</longitude>
+<latitude>40.77106800229934</latitude>
+<altitude>0</altitude>
+<range>1129.04473063379692</range>
+<tilt>0</tilt>
+<heading>0</heading>
+</LookAt>
+</Document>
+</kml>
